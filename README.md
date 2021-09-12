@@ -1,5 +1,5 @@
 # CopyTimecodeAtoB
-Copy the time code of A file to B file and write it out with ffmpeg
+Copy the timecode of file A to file B and export it in h265 or ProResHQ with ffmpeg. (Bit depth is 10bit).
 
 ## Run Test Code
 
