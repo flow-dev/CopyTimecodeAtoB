@@ -13,7 +13,7 @@ pip install -r requirements.txt
 python3 copy_timecode.py \
     --video-src "PATH_TO_VIDEO_SRC" \
     --video-out "PATH_TO_VIDEO_OUT" \
-    --codec h265 \
+    --codec h265 \  #h265 or proreshq
     --copy-tc \
 ```
 
